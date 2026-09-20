@@ -1,0 +1,145 @@
+# sources.yaml
+sources:
+  # ---------- Xray (4) ----------
+  - id: xray-1
+    category: xray
+    filename: xray-1.json
+    urls:
+      - https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/xray/1/config.json
+      - https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/xray/1/config.json
+
+  - id: xray-2
+    category: xray
+    filename: xray-2.json
+    urls:
+      - https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/xray/2/config.json
+      - https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/xray/2/config.json
+
+  - id: xray-3
+    category: xray
+    filename: xray-3.json
+    urls:
+      - https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/xray/3/config.json
+      - https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/xray/3/config.json
+
+  - id: xray-4
+    category: xray
+    filename: xray-4.json
+    urls:
+      - https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/xray/4/config.json
+      - https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/xray/4/config.json
+
+  # ---------- Clash Meta (6) ----------
+  - id: clash-meta-1
+    category: clash-meta
+    filename: clash-meta-1.yaml
+    urls:
+      - https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/clash.meta2/1/config.yaml
+      - https://gitlab.com/free9999/ipupdate/-/raw/master/backup/img/1/2/ipp/clash.meta2/1/config.yaml
+
+  - id: clash-meta-2
+    category: clash-meta
+    filename: clash-meta-2.yaml
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/clash.meta2/2/config.yaml]
+  - id: clash-meta-3
+    category: clash-meta
+    filename: clash-meta-3.yaml
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/clash.meta2/3/config.yaml]
+  - id: clash-meta-4
+    category: clash-meta
+    filename: clash-meta-4.yaml
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/clash.meta2/4/config.yaml]
+  - id: clash-meta-5
+    category: clash-meta
+    filename: clash-meta-5.yaml
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/clash.meta2/5/config.yaml]
+  - id: clash-meta-6
+    category: clash-meta
+    filename: clash-meta-6.yaml
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/clash.meta2/6/config.yaml]
+
+  # ---------- Hysteria (4) ----------
+  - id: hysteria-1
+    category: hysteria
+    filename: hysteria-1.json
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/hysteria/1/config.json]
+  - id: hysteria-2
+    category: hysteria
+    filename: hysteria-2.json
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/hysteria/2/config.json]
+  - id: hysteria-3
+    category: hysteria
+    filename: hysteria-3.json
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/hysteria/3/config.json]
+  - id: hysteria-4
+    category: hysteria
+    filename: hysteria-4.json
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/hysteria/4/config.json]
+
+  # ---------- Hysteria2 (4) ----------
+  - id: hysteria2-1
+    category: hysteria2
+    filename: hysteria2-1.json
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/hysteria2/1/config.json]
+  - id: hysteria2-2
+    category: hysteria2
+    filename: hysteria2-2.json
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/hysteria2/2/config.json]
+  - id: hysteria2-3
+    category: hysteria2
+    filename: hysteria2-3.json
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/hysteria2/3/config.json]
+  - id: hysteria2-4
+    category: hysteria2
+    filename: hysteria2-4.json
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/hysteria2/4/config.json]
+
+  # ---------- Juicity (2) ----------
+  - id: juicity-1
+    category: juicity
+    filename: juicity-1.json
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/juicity/1/config.json]
+  - id: juicity-2
+    category: juicity
+    filename: juicity-2.json
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/juicity/2/config.json]
+
+  # ---------- Mieru (2) ----------
+  - id: mieru-1
+    category: mieru
+    filename: mieru-1.json
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/mieru/1/config.json]
+  - id: mieru-2
+    category: mieru
+    filename: mieru-2.json
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/mieru/2/config.json]
+
+  # ---------- Naiveproxy (2) ----------
+  - id: naiveproxy-1
+    category: naiveproxy
+    filename: naiveproxy-1.json
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/naiveproxy/1/config.json]
+  - id: naiveproxy-2
+    category: naiveproxy
+    filename: naiveproxy-2.json
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/naiveproxy/2/config.json]
+
+  # ---------- ShadowQUIC (2) ----------
+  - id: shadowquic-1
+    category: shadowquic
+    filename: shadowquic-1.yaml
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/shadowquic/1/client.yaml]
+  - id: shadowquic-2
+    category: shadowquic
+    filename: shadowquic-2.yaml
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/shadowquic/2/client.yaml]
+
+  # ---------- Sing-box (2) ----------
+  - id: singbox-1
+    category: singbox
+    filename: singbox-1.json
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/singbox/1/config.json]
+  - id: singbox-2
+    category: singbox
+    filename: singbox-2.json
+    urls: [https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/singbox/2/config.json]

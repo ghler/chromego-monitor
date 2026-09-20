@@ -1,0 +1,202 @@
+{
+  "sources": {
+    "xray-1": {
+      "hash": "7386df01fe7b784bb368428b0e50df0661ba85b1106deb1d3ddcfc874f07eaa3",
+      "last_updated": "2026-09-20T07:14:30.155341+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/xray/1/config.json",
+      "remote_last_modified": "2026-07-08T07:25:49+00:00"
+    },
+    "xray-2": {
+      "hash": "7386df01fe7b784bb368428b0e50df0661ba85b1106deb1d3ddcfc874f07eaa3",
+      "last_updated": "2026-09-20T07:14:33.312532+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/xray/2/config.json",
+      "remote_last_modified": "2026-07-08T07:26:00+00:00"
+    },
+    "xray-3": {
+      "hash": "34a49f672d0161314b8fb66c325ba29b130baccf3ea17a95d84827b4632924d8",
+      "last_updated": "2026-09-20T07:14:37.201409+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/xray/3/config.json",
+      "remote_last_modified": "2026-07-14T13:59:48+00:00"
+    },
+    "xray-4": {
+      "hash": "34a49f672d0161314b8fb66c325ba29b130baccf3ea17a95d84827b4632924d8",
+      "last_updated": "2026-09-20T07:14:39.829746+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/xray/4/config.json",
+      "remote_last_modified": "2026-07-14T13:54:38+00:00"
+    },
+    "clash-meta-1": {
+      "hash": "71204e4e48c9af100a35ddbb752bd9a27f435cca5928ce8e327d1aec3e0f5238",
+      "last_updated": "2026-09-20T07:14:44.931737+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/clash.meta2/1/config.yaml",
+      "remote_last_modified": "2026-07-07T14:17:48+00:00"
+    },
+    "clash-meta-2": {
+      "hash": "ccdad729f7fbfd7b6d1efd91f801e347d2c773daec3c98a70f7bcb98c1e37590",
+      "last_updated": "2026-09-20T07:14:46.456395+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/clash.meta2/2/config.yaml",
+      "remote_last_modified": "2026-05-14T07:12:13+00:00"
+    },
+    "clash-meta-3": {
+      "hash": "8ec69781dfaeceb0e3edd040899667e21f51e859af3c0158a942358a0d1457a1",
+      "last_updated": "2026-09-20T07:14:47.369792+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/clash.meta2/3/config.yaml",
+      "remote_last_modified": "2026-07-06T02:51:48+00:00"
+    },
+    "clash-meta-4": {
+      "hash": "8ec69781dfaeceb0e3edd040899667e21f51e859af3c0158a942358a0d1457a1",
+      "last_updated": "2026-09-20T07:14:51.254273+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/clash.meta2/4/config.yaml",
+      "remote_last_modified": "2026-07-06T02:51:57+00:00"
+    },
+    "clash-meta-5": {
+      "hash": "e0fc67e367bb8a84afa35f5a129b3375198e808095c13ade532e3367e442fa79",
+      "last_updated": "2026-09-20T07:14:51.959973+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/clash.meta2/5/config.yaml",
+      "remote_last_modified": "2026-04-01T00:08:46+00:00"
+    },
+    "clash-meta-6": {
+      "hash": "e0fc67e367bb8a84afa35f5a129b3375198e808095c13ade532e3367e442fa79",
+      "last_updated": "2026-09-20T07:14:52.657746+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/clash.meta2/6/config.yaml",
+      "remote_last_modified": "2026-04-01T00:10:02+00:00"
+    },
+    "hysteria-1": {
+      "hash": "776c3bea1276f1a4df1b301d3de4dc89e38d696d71d923218ef4ac6ea75fb5bf",
+      "last_updated": "2026-09-20T07:14:53.400185+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/hysteria/1/config.json",
+      "remote_last_modified": "2026-07-06T02:58:27+00:00"
+    },
+    "hysteria-2": {
+      "hash": "776c3bea1276f1a4df1b301d3de4dc89e38d696d71d923218ef4ac6ea75fb5bf",
+      "last_updated": "2026-09-20T07:14:54.201772+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/hysteria/2/config.json",
+      "remote_last_modified": "2026-07-06T02:58:52+00:00"
+    },
+    "hysteria-3": {
+      "hash": "72577874d7c596de19381e520671368a65714066bea968a8b0c994a5b260cde5",
+      "last_updated": "2026-09-20T07:14:54.904691+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/hysteria/3/config.json",
+      "remote_last_modified": "2026-06-05T23:24:57+00:00"
+    },
+    "hysteria-4": {
+      "hash": "72577874d7c596de19381e520671368a65714066bea968a8b0c994a5b260cde5",
+      "last_updated": "2026-09-20T07:14:55.721985+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/hysteria/4/config.json",
+      "remote_last_modified": "2026-06-05T23:25:07+00:00"
+    },
+    "hysteria2-1": {
+      "hash": "74af3b388342f8121631e620cc82e301be388aa4eb690aff8784feabe0bde1bd",
+      "last_updated": "2026-09-20T07:14:56.665893+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/hysteria2/1/config.json",
+      "remote_last_modified": "2026-08-11T10:20:07+00:00"
+    },
+    "hysteria2-2": {
+      "hash": "74af3b388342f8121631e620cc82e301be388aa4eb690aff8784feabe0bde1bd",
+      "last_updated": "2026-09-20T07:14:57.360579+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/hysteria2/2/config.json",
+      "remote_last_modified": "2026-08-11T10:20:16+00:00"
+    },
+    "hysteria2-3": {
+      "hash": "daa5fd6b71ef0587ff782bc1ef216c52e70599cbbc7fc94f7234524d7fa4a848",
+      "last_updated": "2026-09-20T07:14:58.046925+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/hysteria2/3/config.json",
+      "remote_last_modified": "2026-03-10T13:11:53+00:00"
+    },
+    "hysteria2-4": {
+      "hash": "daa5fd6b71ef0587ff782bc1ef216c52e70599cbbc7fc94f7234524d7fa4a848",
+      "last_updated": "2026-09-20T07:14:58.778317+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/hysteria2/4/config.json",
+      "remote_last_modified": "2026-03-10T13:21:56+00:00"
+    },
+    "juicity-1": {
+      "hash": "8a625b22b26eefb4baa37e40fdbf63522339bd4fc81ad7cbff42d624998f5ae6",
+      "last_updated": "2026-09-20T07:14:59.480393+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/juicity/1/config.json",
+      "remote_last_modified": "2026-08-11T09:51:07+00:00"
+    },
+    "juicity-2": {
+      "hash": "36a0a10b786c937e86eed6d7cc69a7c3b033d9e6b3a98d4e47ace2f1cbc2ecae",
+      "last_updated": "2026-09-20T07:15:00.214991+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/juicity/2/config.json",
+      "remote_last_modified": "2026-06-17T06:41:19+00:00"
+    },
+    "mieru-1": {
+      "hash": "06dbd07566713a9e64de512999711d1a92f44a039b06bedb74954b872d8e85a1",
+      "last_updated": "2026-09-20T07:15:00.942102+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/mieru/1/config.json",
+      "remote_last_modified": "2026-07-31T02:56:09+00:00"
+    },
+    "mieru-2": {
+      "hash": "601c20d9e89950286452cfc47b7d86b726093ed015acaa22216725fd0b133002",
+      "last_updated": "2026-09-20T07:15:01.655769+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/mieru/2/config.json",
+      "remote_last_modified": "2026-08-22T23:57:33+00:00"
+    },
+    "naiveproxy-1": {
+      "hash": "866d852ba3b9f3992652ffafc4fa62c49b0b42555bf88295e5a8a62e37f1b073",
+      "last_updated": "2026-09-20T07:15:02.585844+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/naiveproxy/1/config.json",
+      "remote_last_modified": "2026-08-11T09:50:01+00:00"
+    },
+    "naiveproxy-2": {
+      "hash": "9dd1279e976cbb87e662de2897cde5c9e191061ddadad31646f3a82cb5603cc5",
+      "last_updated": "2026-09-20T07:15:03.395950+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/naiveproxy/2/config.json",
+      "remote_last_modified": "2026-04-09T01:21:49+00:00"
+    },
+    "shadowquic-1": {
+      "hash": "ffd069f7edb942079f3aa5f7949bac1f86a5afd4070b9bc1083114fae9ae1718",
+      "last_updated": "2026-09-20T07:15:04.268123+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/shadowquic/1/client.yaml",
+      "remote_last_modified": "2026-07-10T15:32:29+00:00"
+    },
+    "shadowquic-2": {
+      "hash": "905695157cc3864ed218d444dae56f1a77d0cdf8f3babc73b8011845f984ed15",
+      "last_updated": "2026-09-20T07:15:05.024807+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/shadowquic/2/client.yaml",
+      "remote_last_modified": "2026-06-16T15:53:52+00:00"
+    },
+    "singbox-1": {
+      "hash": "24e029ecde63e4e7551bb9ec77838ffe1736e8b1150cd247bf02d0fc413b0295",
+      "last_updated": "2026-09-20T07:15:05.809465+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/singbox/1/config.json",
+      "remote_last_modified": "2026-07-29T05:47:16+00:00"
+    },
+    "singbox-2": {
+      "hash": "24e029ecde63e4e7551bb9ec77838ffe1736e8b1150cd247bf02d0fc413b0295",
+      "last_updated": "2026-09-20T07:15:06.564748+00:00",
+      "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/singbox/2/config.json",
+      "remote_last_modified": "2026-07-29T05:47:59+00:00"
+    }
+  },
+  "content_hashes": {
+    "xray-1": "7386df01fe7b784bb368428b0e50df0661ba85b1106deb1d3ddcfc874f07eaa3",
+    "xray-2": "7386df01fe7b784bb368428b0e50df0661ba85b1106deb1d3ddcfc874f07eaa3",
+    "xray-3": "34a49f672d0161314b8fb66c325ba29b130baccf3ea17a95d84827b4632924d8",
+    "xray-4": "34a49f672d0161314b8fb66c325ba29b130baccf3ea17a95d84827b4632924d8",
+    "clash-meta-1": "71204e4e48c9af100a35ddbb752bd9a27f435cca5928ce8e327d1aec3e0f5238",
+    "clash-meta-2": "ccdad729f7fbfd7b6d1efd91f801e347d2c773daec3c98a70f7bcb98c1e37590",
+    "clash-meta-3": "8ec69781dfaeceb0e3edd040899667e21f51e859af3c0158a942358a0d1457a1",
+    "clash-meta-4": "8ec69781dfaeceb0e3edd040899667e21f51e859af3c0158a942358a0d1457a1",
+    "clash-meta-5": "e0fc67e367bb8a84afa35f5a129b3375198e808095c13ade532e3367e442fa79",
+    "clash-meta-6": "e0fc67e367bb8a84afa35f5a129b3375198e808095c13ade532e3367e442fa79",
+    "hysteria-1": "776c3bea1276f1a4df1b301d3de4dc89e38d696d71d923218ef4ac6ea75fb5bf",
+    "hysteria-2": "776c3bea1276f1a4df1b301d3de4dc89e38d696d71d923218ef4ac6ea75fb5bf",
+    "hysteria-3": "72577874d7c596de19381e520671368a65714066bea968a8b0c994a5b260cde5",
+    "hysteria-4": "72577874d7c596de19381e520671368a65714066bea968a8b0c994a5b260cde5",
+    "hysteria2-1": "74af3b388342f8121631e620cc82e301be388aa4eb690aff8784feabe0bde1bd",
+    "hysteria2-2": "74af3b388342f8121631e620cc82e301be388aa4eb690aff8784feabe0bde1bd",
+    "hysteria2-3": "daa5fd6b71ef0587ff782bc1ef216c52e70599cbbc7fc94f7234524d7fa4a848",
+    "hysteria2-4": "daa5fd6b71ef0587ff782bc1ef216c52e70599cbbc7fc94f7234524d7fa4a848",
+    "juicity-1": "8a625b22b26eefb4baa37e40fdbf63522339bd4fc81ad7cbff42d624998f5ae6",
+    "juicity-2": "36a0a10b786c937e86eed6d7cc69a7c3b033d9e6b3a98d4e47ace2f1cbc2ecae",
+    "mieru-1": "06dbd07566713a9e64de512999711d1a92f44a039b06bedb74954b872d8e85a1",
+    "mieru-2": "601c20d9e89950286452cfc47b7d86b726093ed015acaa22216725fd0b133002",
+    "naiveproxy-1": "866d852ba3b9f3992652ffafc4fa62c49b0b42555bf88295e5a8a62e37f1b073",
+    "naiveproxy-2": "9dd1279e976cbb87e662de2897cde5c9e191061ddadad31646f3a82cb5603cc5",
+    "shadowquic-1": "ffd069f7edb942079f3aa5f7949bac1f86a5afd4070b9bc1083114fae9ae1718",
+    "shadowquic-2": "905695157cc3864ed218d444dae56f1a77d0cdf8f3babc73b8011845f984ed15",
+    "singbox-1": "24e029ecde63e4e7551bb9ec77838ffe1736e8b1150cd247bf02d0fc413b0295",
+    "singbox-2": "24e029ecde63e4e7551bb9ec77838ffe1736e8b1150cd247bf02d0fc413b0295"
+  }
+}
