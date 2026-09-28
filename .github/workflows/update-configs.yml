@@ -4,7 +4,7 @@ on:
   # Manual trigger anytime
   workflow_dispatch:
 
-  # Automatic: once a month (1st day of every month at 00:00 UTC)
+  # Automatic: once a month (on day 17 of every month at 00:00 UTC)
   schedule:
     - cron: '0 0 17 * *'
 
