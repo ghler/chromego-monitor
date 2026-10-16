@@ -1,16 +1,16 @@
 {
   "sources": {
     "xray-1": {
-      "hash": "7386df01fe7b784bb368428b0e50df0661ba85b1106deb1d3ddcfc874f07eaa3",
+      "hash": "2e32880628fc0bebe3c83b88160942b48676ed87b6f38221b94487638d8419b4",
       "last_updated": "2026-09-20T07:14:30.155341+00:00",
       "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/xray/1/config.json",
-      "remote_last_modified": "2026-07-08T07:25:49+00:00"
+      "remote_last_modified": "2026-10-13T08:14:37+00:00"
     },
     "xray-2": {
-      "hash": "7386df01fe7b784bb368428b0e50df0661ba85b1106deb1d3ddcfc874f07eaa3",
+      "hash": "2e32880628fc0bebe3c83b88160942b48676ed87b6f38221b94487638d8419b4",
       "last_updated": "2026-09-20T07:14:33.312532+00:00",
       "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/xray/2/config.json",
-      "remote_last_modified": "2026-07-08T07:26:00+00:00"
+      "remote_last_modified": "2026-10-13T08:14:49+00:00"
     },
     "xray-3": {
       "hash": "34a49f672d0161314b8fb66c325ba29b130baccf3ea17a95d84827b4632924d8",
@@ -61,16 +61,16 @@
       "remote_last_modified": "2026-04-01T00:10:02+00:00"
     },
     "hysteria-1": {
-      "hash": "776c3bea1276f1a4df1b301d3de4dc89e38d696d71d923218ef4ac6ea75fb5bf",
+      "hash": "ae177a8e760bb756095aaf168268ba7e620a35dc5f51d17bf4031eb66f621dd4",
       "last_updated": "2026-09-20T07:14:53.400185+00:00",
       "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/hysteria/1/config.json",
-      "remote_last_modified": "2026-07-06T02:58:27+00:00"
+      "remote_last_modified": "2026-10-13T07:37:48+00:00"
     },
     "hysteria-2": {
-      "hash": "776c3bea1276f1a4df1b301d3de4dc89e38d696d71d923218ef4ac6ea75fb5bf",
+      "hash": "ae177a8e760bb756095aaf168268ba7e620a35dc5f51d17bf4031eb66f621dd4",
       "last_updated": "2026-09-20T07:14:54.201772+00:00",
       "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/hysteria/2/config.json",
-      "remote_last_modified": "2026-07-06T02:58:52+00:00"
+      "remote_last_modified": "2026-10-13T07:37:59+00:00"
     },
     "hysteria-3": {
       "hash": "72577874d7c596de19381e520671368a65714066bea968a8b0c994a5b260cde5",
@@ -170,8 +170,8 @@
     }
   },
   "content_hashes": {
-    "xray-1": "7386df01fe7b784bb368428b0e50df0661ba85b1106deb1d3ddcfc874f07eaa3",
-    "xray-2": "7386df01fe7b784bb368428b0e50df0661ba85b1106deb1d3ddcfc874f07eaa3",
+    "xray-1": "2e32880628fc0bebe3c83b88160942b48676ed87b6f38221b94487638d8419b4",
+    "xray-2": "2e32880628fc0bebe3c83b88160942b48676ed87b6f38221b94487638d8419b4",
     "xray-3": "34a49f672d0161314b8fb66c325ba29b130baccf3ea17a95d84827b4632924d8",
     "xray-4": "34a49f672d0161314b8fb66c325ba29b130baccf3ea17a95d84827b4632924d8",
     "clash-meta-1": "f607c7d5cd3ef1255f74b308fecf4dd4afe33e19c02e98ec2e70d1ccaf78591b",
@@ -180,8 +180,8 @@
     "clash-meta-4": "8ec69781dfaeceb0e3edd040899667e21f51e859af3c0158a942358a0d1457a1",
     "clash-meta-5": "e0fc67e367bb8a84afa35f5a129b3375198e808095c13ade532e3367e442fa79",
     "clash-meta-6": "e0fc67e367bb8a84afa35f5a129b3375198e808095c13ade532e3367e442fa79",
-    "hysteria-1": "776c3bea1276f1a4df1b301d3de4dc89e38d696d71d923218ef4ac6ea75fb5bf",
-    "hysteria-2": "776c3bea1276f1a4df1b301d3de4dc89e38d696d71d923218ef4ac6ea75fb5bf",
+    "hysteria-1": "ae177a8e760bb756095aaf168268ba7e620a35dc5f51d17bf4031eb66f621dd4",
+    "hysteria-2": "ae177a8e760bb756095aaf168268ba7e620a35dc5f51d17bf4031eb66f621dd4",
     "hysteria-3": "72577874d7c596de19381e520671368a65714066bea968a8b0c994a5b260cde5",
     "hysteria-4": "72577874d7c596de19381e520671368a65714066bea968a8b0c994a5b260cde5",
     "hysteria2-1": "74af3b388342f8121631e620cc82e301be388aa4eb690aff8784feabe0bde1bd",

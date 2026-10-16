@@ -9,10 +9,10 @@ hysteria://62.210.70.191:23556?auth=github.com/Alvin9999-newpac/fanqiang&peer=bi
 hysteria://2a14:7584:d097::a:54177?auth=dongtaiwang.com&peer=apple.com&insecure=1#clash-meta-6
 hysteria://2a14:7584:d097::a:54177?auth=dongtaiwang.com&peer=apple.com&insecure=1#clash-meta-5
 hysteria://5.83.129.90:54177?auth=dongtaiwang.com&peer=apple.com&insecure=1#hysteria-4
-hysteria://62.210.70.191:23556?auth=github.com/Alvin9999-newpac/fanqiang&peer=bing.com&insecure=1#hysteria-2
+hysteria://107.149.207.185:443?auth=dongtaiwang.com&peer=www.bing.com&insecure=1#hysteria-2
 hysteria://5.83.129.90:54177?auth=dongtaiwang.com&peer=apple.com&insecure=1#hysteria-3
-hysteria://62.210.70.191:23556?auth=github.com/Alvin9999-newpac/fanqiang&peer=bing.com&insecure=1#hysteria-1
-vless://a289c660-1b12-432b-a06c-c2ae469272b0@62.210.70.194:37783?encryption=none&type=xhttp&security=tls&sni=www.yahoo.com#xray-2
+hysteria://107.149.207.185:443?auth=dongtaiwang.com&peer=www.bing.com&insecure=1#hysteria-1
+vless://a289c660-1b12-432b-a06c-c2ae469272b0@2001:bc8:32d7:302::14:37783?encryption=none&type=xhttp&security=tls&sni=www.yahoo.com#xray-2
 vless://a289c660-1b12-432b-a06c-c2ae469272b0@2001:bc8:32d7:302::14:37783?encryption=none&type=xhttp&security=tls&sni=www.yahoo.com#xray-3
-vless://a289c660-1b12-432b-a06c-c2ae469272b0@62.210.70.194:37783?encryption=none&type=xhttp&security=tls&sni=www.yahoo.com#xray-1
+vless://a289c660-1b12-432b-a06c-c2ae469272b0@2001:bc8:32d7:302::14:37783?encryption=none&type=xhttp&security=tls&sni=www.yahoo.com#xray-1
 vless://a289c660-1b12-432b-a06c-c2ae469272b0@2001:bc8:32d7:302::14:37783?encryption=none&type=xhttp&security=tls&sni=www.yahoo.com#xray-4

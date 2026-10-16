@@ -121,13 +121,13 @@ proxies:
   - h3
 - name: hysteria-2
   type: hysteria
-  server: 62.210.70.191
-  port: 23556
-  auth-str: github.com/Alvin9999-newpac/fanqiang
+  server: 107.149.207.185
+  port: 443
+  auth-str: dongtaiwang.com
   up: 11
   down: 55
   protocol: udp
-  sni: bing.com
+  sni: www.bing.com
   skip-cert-verify: true
   alpn:
   - h3
@@ -145,19 +145,19 @@ proxies:
   - h3
 - name: hysteria-1
   type: hysteria
-  server: 62.210.70.191
-  port: 23556
-  auth-str: github.com/Alvin9999-newpac/fanqiang
+  server: 107.149.207.185
+  port: 443
+  auth-str: dongtaiwang.com
   up: 11
   down: 55
   protocol: udp
-  sni: bing.com
+  sni: www.bing.com
   skip-cert-verify: true
   alpn:
   - h3
 - name: xray-2
   type: vless
-  server: 62.210.70.194
+  server: 2001:bc8:32d7:302::14
   port: 37783
   uuid: a289c660-1b12-432b-a06c-c2ae469272b0
   udp: true
@@ -183,7 +183,7 @@ proxies:
     short-id: 21569dd6
 - name: xray-1
   type: vless
-  server: 62.210.70.194
+  server: 2001:bc8:32d7:302::14
   port: 37783
   uuid: a289c660-1b12-432b-a06c-c2ae469272b0
   udp: true
