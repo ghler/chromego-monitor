@@ -121,13 +121,13 @@ proxies:
   - h3
 - name: hysteria-2
   type: hysteria
-  server: 107.149.207.185
+  server: 137.175.82.44
   port: 443
   auth-str: dongtaiwang.com
   up: 11
   down: 55
   protocol: udp
-  sni: www.bing.com
+  sni: bing.com
   skip-cert-verify: true
   alpn:
   - h3
@@ -145,13 +145,13 @@ proxies:
   - h3
 - name: hysteria-1
   type: hysteria
-  server: 107.149.207.185
+  server: 137.175.82.44
   port: 443
   auth-str: dongtaiwang.com
   up: 11
   down: 55
   protocol: udp
-  sni: www.bing.com
+  sni: bing.com
   skip-cert-verify: true
   alpn:
   - h3
