@@ -11,7 +11,7 @@ hysteria://62.210.70.191:23556?auth=github.com/Alvin9999-newpac/fanqiang&peer=bi
 hysteria://62.210.70.191:23556?auth=github.com/Alvin9999-newpac/fanqiang&peer=bing.com&insecure=1#clash-meta-3
 hysteria://2a14:7584:d097::a:54177?auth=dongtaiwang.com&peer=apple.com&insecure=1#clash-meta-6
 hysteria://163.172.117.163:36699?auth=dongtaiwang.com&peer=bing.com&insecure=1#clash-meta-2
-hysteria://62.210.70.191:24667?auth=dongtaiwang.com&peer=bing.com&insecure=1#clash-meta-1
+hysteria://62.210.28.175:24667?auth=dongtaiwang.com&peer=bing.com&insecure=1#clash-meta-1
 hysteria://137.175.82.44:443?auth=dongtaiwang.com&peer=bing.com&insecure=1#hysteria-1
 hysteria://5.83.129.90:54177?auth=dongtaiwang.com&peer=apple.com&insecure=1#hysteria-4
 hysteria://137.175.82.44:443?auth=dongtaiwang.com&peer=bing.com&insecure=1#hysteria-2
