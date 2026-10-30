@@ -115,10 +115,10 @@
       "remote_last_modified": "2026-10-17T07:13:54+00:00"
     },
     "juicity-2": {
-      "hash": "36a0a10b786c937e86eed6d7cc69a7c3b033d9e6b3a98d4e47ace2f1cbc2ecae",
+      "hash": "cd8230d6d22158f2bd9522d5d941eed3cfcd9ea85f3c11e83c423dca3d971707",
       "last_updated": "2026-09-20T07:15:00.214991+00:00",
       "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/juicity/2/config.json",
-      "remote_last_modified": "2026-06-17T06:41:19+00:00"
+      "remote_last_modified": "2026-10-30T00:03:26+00:00"
     },
     "mieru-1": {
       "hash": "06dbd07566713a9e64de512999711d1a92f44a039b06bedb74954b872d8e85a1",
@@ -189,7 +189,7 @@
     "hysteria2-3": "daa5fd6b71ef0587ff782bc1ef216c52e70599cbbc7fc94f7234524d7fa4a848",
     "hysteria2-4": "daa5fd6b71ef0587ff782bc1ef216c52e70599cbbc7fc94f7234524d7fa4a848",
     "juicity-1": "02a9d4f2c6eaa1d318b2857f4718f8f96762fb4f134b78be1d8f5fa96df1a0ea",
-    "juicity-2": "36a0a10b786c937e86eed6d7cc69a7c3b033d9e6b3a98d4e47ace2f1cbc2ecae",
+    "juicity-2": "cd8230d6d22158f2bd9522d5d941eed3cfcd9ea85f3c11e83c423dca3d971707",
     "mieru-1": "06dbd07566713a9e64de512999711d1a92f44a039b06bedb74954b872d8e85a1",
     "mieru-2": "601c20d9e89950286452cfc47b7d86b726093ed015acaa22216725fd0b133002",
     "naiveproxy-1": "7aa39b4ff271c3fa3085f8717c3daa6fdf61371b2481760db9c6ba6b9aa01d3c",

@@ -3,15 +3,59 @@ allow-lan: false
 mode: rule
 log-level: info
 proxies:
+- name: xray-1
+  type: vless
+  server: 2001:bc8:32d7:302::14
+  port: 37783
+  uuid: a289c660-1b12-432b-a06c-c2ae469272b0
+  udp: true
+  network: xhttp
+  tls: true
+  servername: www.yahoo.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: tQeEamJmYVUUfjRLX7ETvMnPj4DrHzRhR5TI684oYgg
+    short-id: 21569dd6
+- name: xray-3
+  type: vless
+  server: 2001:bc8:32d7:302::14
+  port: 37783
+  uuid: a289c660-1b12-432b-a06c-c2ae469272b0
+  udp: true
+  network: xhttp
+  tls: true
+  servername: www.yahoo.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: tQeEamJmYVUUfjRLX7ETvMnPj4DrHzRhR5TI684oYgg
+    short-id: 21569dd6
+- name: xray-4
+  type: vless
+  server: 2001:bc8:32d7:302::14
+  port: 37783
+  uuid: a289c660-1b12-432b-a06c-c2ae469272b0
+  udp: true
+  network: xhttp
+  tls: true
+  servername: www.yahoo.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: tQeEamJmYVUUfjRLX7ETvMnPj4DrHzRhR5TI684oYgg
+    short-id: 21569dd6
+- name: xray-2
+  type: vless
+  server: 2001:bc8:32d7:302::14
+  port: 37783
+  uuid: a289c660-1b12-432b-a06c-c2ae469272b0
+  udp: true
+  network: xhttp
+  tls: true
+  servername: www.yahoo.com
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: tQeEamJmYVUUfjRLX7ETvMnPj4DrHzRhR5TI684oYgg
+    short-id: 21569dd6
 - name: hysteria2-2
-  type: hysteria2
-  server: '[2001:bc8:32d7:17b::3]'
-  port: 22000
-  password: dongtaiwang.com
-  sni: www.microsoft.com
-  skip-cert-verify: true
-  fast-open: true
-- name: hysteria2-3
   type: hysteria2
   server: '[2001:bc8:32d7:17b::3]'
   port: 22000
@@ -27,6 +71,14 @@ proxies:
   sni: www.microsoft.com
   skip-cert-verify: true
   fast-open: true
+- name: hysteria2-3
+  type: hysteria2
+  server: '[2001:bc8:32d7:17b::3]'
+  port: 22000
+  password: dongtaiwang.com
+  sni: www.microsoft.com
+  skip-cert-verify: true
+  fast-open: true
 - name: hysteria2-4
   type: hysteria2
   server: '[2001:bc8:32d7:17b::3]'
@@ -35,24 +87,12 @@ proxies:
   sni: www.microsoft.com
   skip-cert-verify: true
   fast-open: true
-- name: clash-meta-2
+- name: clash-meta-5
   type: hysteria
-  server: 163.172.117.163
-  port: 36699
+  server: 2a14:7584:d097::a
+  port: 54177
   auth-str: dongtaiwang.com
-  sni: bing.com
-  skip-cert-verify: true
-  alpn:
-  - h3
-  protocol: udp
-  up: 11 Mbps
-  down: 55 Mbps
-- name: clash-meta-1
-  type: hysteria
-  server: 62.210.70.191
-  port: 24667
-  auth-str: dongtaiwang.com
-  sni: bing.com
+  sni: apple.com
   skip-cert-verify: true
   alpn:
   - h3
@@ -95,18 +135,42 @@ proxies:
   protocol: udp
   up: 11 Mbps
   down: 55 Mbps
-- name: clash-meta-5
+- name: clash-meta-2
   type: hysteria
-  server: 2a14:7584:d097::a
-  port: 54177
+  server: 163.172.117.163
+  port: 36699
   auth-str: dongtaiwang.com
-  sni: apple.com
+  sni: bing.com
   skip-cert-verify: true
   alpn:
   - h3
   protocol: udp
   up: 11 Mbps
   down: 55 Mbps
+- name: clash-meta-1
+  type: hysteria
+  server: 62.210.70.191
+  port: 24667
+  auth-str: dongtaiwang.com
+  sni: bing.com
+  skip-cert-verify: true
+  alpn:
+  - h3
+  protocol: udp
+  up: 11 Mbps
+  down: 55 Mbps
+- name: hysteria-1
+  type: hysteria
+  server: 137.175.82.44
+  port: 443
+  auth-str: dongtaiwang.com
+  up: 11
+  down: 55
+  protocol: udp
+  sni: bing.com
+  skip-cert-verify: true
+  alpn:
+  - h3
 - name: hysteria-4
   type: hysteria
   server: 5.83.129.90
@@ -143,116 +207,52 @@ proxies:
   skip-cert-verify: true
   alpn:
   - h3
-- name: hysteria-1
-  type: hysteria
-  server: 137.175.82.44
-  port: 443
-  auth-str: dongtaiwang.com
-  up: 11
-  down: 55
-  protocol: udp
-  sni: bing.com
-  skip-cert-verify: true
-  alpn:
-  - h3
-- name: xray-2
-  type: vless
-  server: 2001:bc8:32d7:302::14
-  port: 37783
-  uuid: a289c660-1b12-432b-a06c-c2ae469272b0
-  udp: true
-  network: xhttp
-  tls: true
-  servername: www.yahoo.com
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: tQeEamJmYVUUfjRLX7ETvMnPj4DrHzRhR5TI684oYgg
-    short-id: 21569dd6
-- name: xray-3
-  type: vless
-  server: 2001:bc8:32d7:302::14
-  port: 37783
-  uuid: a289c660-1b12-432b-a06c-c2ae469272b0
-  udp: true
-  network: xhttp
-  tls: true
-  servername: www.yahoo.com
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: tQeEamJmYVUUfjRLX7ETvMnPj4DrHzRhR5TI684oYgg
-    short-id: 21569dd6
-- name: xray-1
-  type: vless
-  server: 2001:bc8:32d7:302::14
-  port: 37783
-  uuid: a289c660-1b12-432b-a06c-c2ae469272b0
-  udp: true
-  network: xhttp
-  tls: true
-  servername: www.yahoo.com
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: tQeEamJmYVUUfjRLX7ETvMnPj4DrHzRhR5TI684oYgg
-    short-id: 21569dd6
-- name: xray-4
-  type: vless
-  server: 2001:bc8:32d7:302::14
-  port: 37783
-  uuid: a289c660-1b12-432b-a06c-c2ae469272b0
-  udp: true
-  network: xhttp
-  tls: true
-  servername: www.yahoo.com
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: tQeEamJmYVUUfjRLX7ETvMnPj4DrHzRhR5TI684oYgg
-    short-id: 21569dd6
 proxy-groups:
 - name: 🚀 Node
   type: select
   proxies:
+  - xray-1
+  - xray-3
+  - xray-4
+  - xray-2
   - hysteria2-2
-  - hysteria2-3
   - hysteria2-1
+  - hysteria2-3
   - hysteria2-4
-  - clash-meta-2
-  - clash-meta-1
+  - clash-meta-5
   - clash-meta-4
   - clash-meta-3
   - clash-meta-6
-  - clash-meta-5
+  - clash-meta-2
+  - clash-meta-1
+  - hysteria-1
   - hysteria-4
   - hysteria-2
   - hysteria-3
-  - hysteria-1
-  - xray-2
-  - xray-3
-  - xray-1
-  - xray-4
   - DIRECT
 - name: ♻️ Auto
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
   proxies:
+  - xray-1
+  - xray-3
+  - xray-4
+  - xray-2
   - hysteria2-2
-  - hysteria2-3
   - hysteria2-1
+  - hysteria2-3
   - hysteria2-4
-  - clash-meta-2
-  - clash-meta-1
+  - clash-meta-5
   - clash-meta-4
   - clash-meta-3
   - clash-meta-6
-  - clash-meta-5
+  - clash-meta-2
+  - clash-meta-1
+  - hysteria-1
   - hysteria-4
   - hysteria-2
   - hysteria-3
-  - hysteria-1
-  - xray-2
-  - xray-3
-  - xray-1
-  - xray-4
 rules:
 - GEOIP,LAN,DIRECT
 - GEOIP,CN,DIRECT
