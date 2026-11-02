@@ -157,16 +157,16 @@
       "remote_last_modified": "2026-06-16T15:53:52+00:00"
     },
     "singbox-1": {
-      "hash": "24e029ecde63e4e7551bb9ec77838ffe1736e8b1150cd247bf02d0fc413b0295",
+      "hash": "e5e36ac55a9dd1d0221f3d979b9220409883f804f25a05c6b2ffb2ff838e4c06",
       "last_updated": "2026-09-20T07:15:05.809465+00:00",
       "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/singbox/1/config.json",
-      "remote_last_modified": "2026-07-29T05:47:16+00:00"
+      "remote_last_modified": "2026-10-31T23:56:30+00:00"
     },
     "singbox-2": {
-      "hash": "24e029ecde63e4e7551bb9ec77838ffe1736e8b1150cd247bf02d0fc413b0295",
+      "hash": "e5e36ac55a9dd1d0221f3d979b9220409883f804f25a05c6b2ffb2ff838e4c06",
       "last_updated": "2026-09-20T07:15:06.564748+00:00",
       "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/singbox/2/config.json",
-      "remote_last_modified": "2026-07-29T05:47:59+00:00"
+      "remote_last_modified": "2026-10-31T23:56:41+00:00"
     }
   },
   "content_hashes": {
@@ -196,7 +196,7 @@
     "naiveproxy-2": "9dd1279e976cbb87e662de2897cde5c9e191061ddadad31646f3a82cb5603cc5",
     "shadowquic-1": "ffd069f7edb942079f3aa5f7949bac1f86a5afd4070b9bc1083114fae9ae1718",
     "shadowquic-2": "905695157cc3864ed218d444dae56f1a77d0cdf8f3babc73b8011845f984ed15",
-    "singbox-1": "24e029ecde63e4e7551bb9ec77838ffe1736e8b1150cd247bf02d0fc413b0295",
-    "singbox-2": "24e029ecde63e4e7551bb9ec77838ffe1736e8b1150cd247bf02d0fc413b0295"
+    "singbox-1": "e5e36ac55a9dd1d0221f3d979b9220409883f804f25a05c6b2ffb2ff838e4c06",
+    "singbox-2": "e5e36ac55a9dd1d0221f3d979b9220409883f804f25a05c6b2ffb2ff838e4c06"
   }
 }
