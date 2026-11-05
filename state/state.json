@@ -127,10 +127,10 @@
       "remote_last_modified": "2026-07-31T02:56:09+00:00"
     },
     "mieru-2": {
-      "hash": "601c20d9e89950286452cfc47b7d86b726093ed015acaa22216725fd0b133002",
+      "hash": "06dbd07566713a9e64de512999711d1a92f44a039b06bedb74954b872d8e85a1",
       "last_updated": "2026-09-20T07:15:01.655769+00:00",
       "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/mieru/2/config.json",
-      "remote_last_modified": "2026-08-22T23:57:33+00:00"
+      "remote_last_modified": "2026-11-04T00:35:56+00:00"
     },
     "naiveproxy-1": {
       "hash": "7aa39b4ff271c3fa3085f8717c3daa6fdf61371b2481760db9c6ba6b9aa01d3c",
@@ -139,10 +139,10 @@
       "remote_last_modified": "2026-10-17T07:06:12+00:00"
     },
     "naiveproxy-2": {
-      "hash": "9dd1279e976cbb87e662de2897cde5c9e191061ddadad31646f3a82cb5603cc5",
+      "hash": "7aa39b4ff271c3fa3085f8717c3daa6fdf61371b2481760db9c6ba6b9aa01d3c",
       "last_updated": "2026-09-20T07:15:03.395950+00:00",
       "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/naiveproxy/2/config.json",
-      "remote_last_modified": "2026-04-09T01:21:49+00:00"
+      "remote_last_modified": "2026-11-04T00:34:41+00:00"
     },
     "shadowquic-1": {
       "hash": "ffd069f7edb942079f3aa5f7949bac1f86a5afd4070b9bc1083114fae9ae1718",
@@ -191,9 +191,9 @@
     "juicity-1": "02a9d4f2c6eaa1d318b2857f4718f8f96762fb4f134b78be1d8f5fa96df1a0ea",
     "juicity-2": "cd8230d6d22158f2bd9522d5d941eed3cfcd9ea85f3c11e83c423dca3d971707",
     "mieru-1": "06dbd07566713a9e64de512999711d1a92f44a039b06bedb74954b872d8e85a1",
-    "mieru-2": "601c20d9e89950286452cfc47b7d86b726093ed015acaa22216725fd0b133002",
+    "mieru-2": "06dbd07566713a9e64de512999711d1a92f44a039b06bedb74954b872d8e85a1",
     "naiveproxy-1": "7aa39b4ff271c3fa3085f8717c3daa6fdf61371b2481760db9c6ba6b9aa01d3c",
-    "naiveproxy-2": "9dd1279e976cbb87e662de2897cde5c9e191061ddadad31646f3a82cb5603cc5",
+    "naiveproxy-2": "7aa39b4ff271c3fa3085f8717c3daa6fdf61371b2481760db9c6ba6b9aa01d3c",
     "shadowquic-1": "ffd069f7edb942079f3aa5f7949bac1f86a5afd4070b9bc1083114fae9ae1718",
     "shadowquic-2": "905695157cc3864ed218d444dae56f1a77d0cdf8f3babc73b8011845f984ed15",
     "singbox-1": "e5e36ac55a9dd1d0221f3d979b9220409883f804f25a05c6b2ffb2ff838e4c06",

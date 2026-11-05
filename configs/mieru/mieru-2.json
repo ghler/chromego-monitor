@@ -5,16 +5,16 @@
         {
             "profileName": "default",
             "user": {
-                "name": "dongtaiwang.com",
-                "password": "dongtaiwang.com"
+                "name": "Alvin9999-newpac",
+                "password": "github.com/Alvin9999-newpac/fanqiang"
             },
             "servers": [
                 {
-                    "ipAddress": "157.254.223.43",
+                    "ipAddress": "198.200.57.152",
                     "domainName": "",
                     "portBindings": [
                         {
-                            "port": 23456,
+                            "port": 33556,
                             "protocol": "TCP"
                         }
                     ]
