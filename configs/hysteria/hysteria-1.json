@@ -1,5 +1,5 @@
 {
-"server": "137.175.82.44:443",
+"server": "137.175.82.44:20022",
 "protocol": "udp",
 "up_mbps": 11,
 "down_mbps": 55,

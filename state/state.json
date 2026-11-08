@@ -61,10 +61,10 @@
       "remote_last_modified": "2026-04-01T00:10:02+00:00"
     },
     "hysteria-1": {
-      "hash": "6e0b9fc8f7fdcc5018ef6f61cb1b770af31b6bcf7f74d63d5b28330c76fc66cb",
+      "hash": "92263ad5fb7cbf59c7c7f3d3b78b98be523972cda1160dad1569bf011fa998c1",
       "last_updated": "2026-09-20T07:14:53.400185+00:00",
       "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/hysteria/1/config.json",
-      "remote_last_modified": "2026-10-19T03:09:04+00:00"
+      "remote_last_modified": "2026-11-07T23:34:37+00:00"
     },
     "hysteria-2": {
       "hash": "6e0b9fc8f7fdcc5018ef6f61cb1b770af31b6bcf7f74d63d5b28330c76fc66cb",
@@ -157,16 +157,16 @@
       "remote_last_modified": "2026-06-16T15:53:52+00:00"
     },
     "singbox-1": {
-      "hash": "e5e36ac55a9dd1d0221f3d979b9220409883f804f25a05c6b2ffb2ff838e4c06",
+      "hash": "9148985668efeeb09de21bab1200ea2168436c2db60d51766552e810c52471f3",
       "last_updated": "2026-09-20T07:15:05.809465+00:00",
       "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/singbox/1/config.json",
-      "remote_last_modified": "2026-10-31T23:56:30+00:00"
+      "remote_last_modified": "2026-11-07T23:35:35+00:00"
     },
     "singbox-2": {
-      "hash": "e5e36ac55a9dd1d0221f3d979b9220409883f804f25a05c6b2ffb2ff838e4c06",
+      "hash": "9148985668efeeb09de21bab1200ea2168436c2db60d51766552e810c52471f3",
       "last_updated": "2026-09-20T07:15:06.564748+00:00",
       "url": "https://www.gitlabip.xyz/Alvin9999/PAC/refs/heads/master/backup/img/1/2/ipp/singbox/2/config.json",
-      "remote_last_modified": "2026-10-31T23:56:41+00:00"
+      "remote_last_modified": "2026-11-07T23:35:47+00:00"
     }
   },
   "content_hashes": {
@@ -180,7 +180,7 @@
     "clash-meta-4": "8ec69781dfaeceb0e3edd040899667e21f51e859af3c0158a942358a0d1457a1",
     "clash-meta-5": "e0fc67e367bb8a84afa35f5a129b3375198e808095c13ade532e3367e442fa79",
     "clash-meta-6": "e0fc67e367bb8a84afa35f5a129b3375198e808095c13ade532e3367e442fa79",
-    "hysteria-1": "6e0b9fc8f7fdcc5018ef6f61cb1b770af31b6bcf7f74d63d5b28330c76fc66cb",
+    "hysteria-1": "92263ad5fb7cbf59c7c7f3d3b78b98be523972cda1160dad1569bf011fa998c1",
     "hysteria-2": "6e0b9fc8f7fdcc5018ef6f61cb1b770af31b6bcf7f74d63d5b28330c76fc66cb",
     "hysteria-3": "72577874d7c596de19381e520671368a65714066bea968a8b0c994a5b260cde5",
     "hysteria-4": "72577874d7c596de19381e520671368a65714066bea968a8b0c994a5b260cde5",
@@ -196,7 +196,7 @@
     "naiveproxy-2": "7aa39b4ff271c3fa3085f8717c3daa6fdf61371b2481760db9c6ba6b9aa01d3c",
     "shadowquic-1": "ffd069f7edb942079f3aa5f7949bac1f86a5afd4070b9bc1083114fae9ae1718",
     "shadowquic-2": "905695157cc3864ed218d444dae56f1a77d0cdf8f3babc73b8011845f984ed15",
-    "singbox-1": "e5e36ac55a9dd1d0221f3d979b9220409883f804f25a05c6b2ffb2ff838e4c06",
-    "singbox-2": "e5e36ac55a9dd1d0221f3d979b9220409883f804f25a05c6b2ffb2ff838e4c06"
+    "singbox-1": "9148985668efeeb09de21bab1200ea2168436c2db60d51766552e810c52471f3",
+    "singbox-2": "9148985668efeeb09de21bab1200ea2168436c2db60d51766552e810c52471f3"
   }
 }
