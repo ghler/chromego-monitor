@@ -6,7 +6,7 @@ on:
 
   # Automatic: twice a month, on days 12 and 27 at 23:00 UTC
   schedule:
-    - cron: '0 0 17 * *'
+    - cron: '0 23 12,27 * *'
 
 permissions:
   contents: write   # needed to push changes
