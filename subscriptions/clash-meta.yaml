@@ -137,8 +137,8 @@ proxies:
   down: 55 Mbps
 - name: clash-meta-2
   type: hysteria
-  server: 163.172.117.163
-  port: 36699
+  server: 62.210.124.132
+  port: 24667
   auth-str: dongtaiwang.com
   sni: bing.com
   skip-cert-verify: true
@@ -149,7 +149,7 @@ proxies:
   down: 55 Mbps
 - name: clash-meta-1
   type: hysteria
-  server: 62.210.28.175
+  server: 62.210.124.132
   port: 24667
   auth-str: dongtaiwang.com
   sni: bing.com
@@ -173,8 +173,8 @@ proxies:
   - h3
 - name: hysteria-2
   type: hysteria
-  server: 137.175.82.44
-  port: 443
+  server: 137.175.82.42
+  port: 20022
   auth-str: dongtaiwang.com
   up: 11
   down: 55
@@ -197,7 +197,7 @@ proxies:
   - h3
 - name: hysteria-1
   type: hysteria
-  server: 137.175.82.44
+  server: 137.175.82.42
   port: 20022
   auth-str: dongtaiwang.com
   up: 11
